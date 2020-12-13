@@ -1,5 +1,5 @@
 ## 소개
-![avatar]("https://user-images.githubusercontent.com/67685987/102018486-d9a5eb00-3db0-11eb-9510-9111cbd07a20.jpg"  width="200")
+![avatar](https://user-images.githubusercontent.com/67685987/102018486-d9a5eb00-3db0-11eb-9510-9111cbd07a20.jpg width="200")
 
 - 이름: 김태준
 - 생년월일: 1994년 03월 31일
