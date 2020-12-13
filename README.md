@@ -1,6 +1,5 @@
 ## 소개
-<img src='./images/avata.jpg' width=50% />
-
+<img src="https://user-images.githubusercontent.com/67685987/102018486-d9a5eb00-3db0-11eb-9510-9111cbd07a20.jpg" width="200">
 - 이름: 김태준
 - 생년월일: 1994년 03월 31일
 - 군필여부: 육군 병장 전역
@@ -22,9 +21,9 @@
 
 ### Programming Skill
 
-- **C/C++**<br>입문언어로 절차지향적인 C언어와 객체지향적인 C++을 기본 문법을 적절히 사용할 줄 알고 정렬 binary search,buble sort,Stack,Queue,Linkedlist,Tree등을 구현할 수 있습니다
+- **C/C++**<br>입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용할 줄 알고  binary search,bubble sort,Stack,Queue,Linkedlist,Tree등을 구현할 수 있습니다
 MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 만들수 있습니다
-- **Java**<br>포인터가 없는 자바에서 포인터처럼 사용하여 eight queens problem, mergelist, bug game등을 구현할수 있습니다
+- **Java**<br>포인터가 없는 자바에서 포인터처럼 사용하여 eight queens problem, mergelist, bug game, selection sort등을 구현할수 있습니다
 - **Go**<br>Hyperledger Fabric의 smart contract를 담당하는 chaincode를 작성하고 이해할 수 있습니다
 - **JavaScript**<br>간단한 블록체인을 코딩하고 네트워크를 구축해 구동해 봤습니다
 - **SQL**<br> DB를 생성하거나 테이블을 생성해서 데이터를 조작할수 있고 간단한 DB설계를 할 수 있습니다
