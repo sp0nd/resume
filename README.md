@@ -43,11 +43,11 @@ CreditBlock<br>
 
 ### Programming Skill
 
-- **C/C++**<br>입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용할 줄 알고  binary search,bubble sort,Stack,Queue,Linkedlist,Tree등을 구현할 수 있습니다. 그리고 MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 만들수 있습니다.
-- **Java**<br>Stack을 활용해서 eight queens problem의 해 구하기, Linkedlist를 직접 구현하며 mergelist 등의 메소드 또한 구현해보았고, 배열을 이용한 bug game 코딩 등을 구현할 수 있습니다
-- **Go**<br>Hyperledger Fabric의 smart contract를 담당하는 chaincode를 작성하고 이해할 수 있습니다
-- **JavaScript**<br>간단한 블록체인을 코딩하고 네트워크를 구축해 구동해 봤습니다
-- **SQL**<br> DB를 생성하거나 테이블을 생성해서 데이터를 조작할수 있고 간단한 DB설계를 할 수 있습니다
+- **C/C++**<br>입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용할 줄 알고  binary search,bubble sort,Stack,Queue,Linkedlist,Tree등을 구현할 수 있습니다. 그리고 MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 만들어 봤습니다.
+- **Java**<br>Stack을 활용해서 eight queens problem의 해 구하기, Linkedlist를 직접 구현하며 mergelist 등의 메소드 또한 구현해보았고, 배열을 이용한 bug game 코딩 등을 구현했습니다.
+- **Go**<br>Hyperledger Fabric의 smart contract를 담당하는 chaincode를 작성하고 이해할 수 있습니다.
+- **JavaScript**<br>간단한 블록체인을 코딩하고 네트워크를 구축해 구동해 봤습니다.
+- **SQL**<br> DB를 생성하거나 테이블을 생성해서 데이터를 조작할수 있고 간단한 DB설계를 해봤습니다.
 - **Python**<br>파이썬의 기본적인 문법을 응용할 수 있습니다. 
 
 ### Available Tool
@@ -66,7 +66,8 @@ CreditBlock<br>
 
 - **Ethereum Blockchain**<br>이더리움의 핵심 기능인 smart contract를 Solidity를 이용해 작성하고 간단한 네트워크를 구축해봤습니다.
 
-- **Hyperledger Fabric Blockchain**<br>여러개의 명령어를 shellScript파일로 작성하여 명령어를 한번에 실행할 수 있게 만들수 있습니다. yaml으로 orderer,Organization,client등을 스펙을 조작할 수 있고,
+- **Hyperledger Fabric Blockchain**<br>여러개의 명령어를 shellScript파일로 작성하여 명령어를 한번에 실행할 수 있게 만들수 있습니다. yaml으로 orderer,Organization,client등을 스펙을 조작할 수
+ 있고,
 제네시스 블록 ,인증서등을 생성하고 채널 생성 및 Org등록을 할 수 있습니다. chaincode 또한 Go언어와
 Java로 응용할 수 있습니다.
 
