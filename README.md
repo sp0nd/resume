@@ -26,7 +26,7 @@
 함으로서 금융기관에서 신용평가를 할 때 정확하게 할 수 있기 때문에 자영업자들의 대출받을 확률이 증가
 하고 대출한도도 증가 시킬 수 있습니다. 코로나와 같이 외부환경 악화로 자영업자들의 고사 위기에 
 처해있을 때 성장 가능성이 있는 자영업자들에게 금융기관에서 자금을 유통함으로써 금융기관의 고객층 확보
-하고 기업 이미지를 개선할 수 있습니다.
+하고 기업 이미지를 개선할 수 있을 것 입니다.
 ```
 - 수상 날짜 : 2020년 11월 
 - 공모전 PDF : https://github.com/sp0nd/resume/tree/main/project
@@ -43,7 +43,7 @@ CreditBlock<br>
 
 ### Programming Skill
 
-- **C/C++**<br>입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용할 줄 알고  binary search,bubble sort,Stack,Queue,Linkedlist,Tree등을 구현할 수 있습니다. 그리고 MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 만들어 봤습니다.
+- **C/C++**<br>입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용할 줄 알고  binary search, bubble sort, Stack, Queue, Linkedlist, Tree등을 구현할 수 있습니다. 그리고 MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 만들어 봤습니다.
 - **Java**<br>Stack을 활용해서 eight queens problem의 해 구하기, Linkedlist를 직접 구현하며 mergelist 등의 메소드 또한 구현해보았고, 배열을 이용한 bug game 코딩 등을 구현했습니다.
 - **Go**<br>Hyperledger Fabric의 smart contract를 담당하는 chaincode를 작성하고 이해할 수 있습니다.
 - **JavaScript**<br>간단한 블록체인을 코딩하고 네트워크를 구축해 구동해 봤습니다.
@@ -52,11 +52,19 @@ CreditBlock<br>
 
 ### Available Tool
 
-- **Visual Studio**<br>C/C++을 코딩할때 주로 사용하였으며 MFC로 다양한 프로젝트를 개발해 보았습니다.
-- **Visual Studio Code**<br> javascript,python,golang등으로 간단한 블록체인을 만들어보았습니다.
-- **Ubuntu-IntelliJ IDEA - Gradle**<br> 버츄얼박스에 우분투를 설치하고 IntelliJ IDEA로 java를 Hyperledger Fabric을 구현해보았고 Gradle로 빌드하여 사용했습니다.
-- **Docker**<br> Hyperledger Fabric을 구현하면서 도커 컨테이너를 여러개 생성하여 네트워크를 구성하고 docker-compose를 통해 연동시켜 구동해봤습니다. 
-- **MySQL Workbench**<br> MySQL Workbench와 MFC을 연동하여 DB를 생성하고 데이터를 조작해봤습니다.
+- **Visual Studio**<br>
+> C/C++을 코딩할때 주로 사용
+> 하였으며 MFC로 다양한 프로젝트를 개발해 보았습니다.
+- **Visual Studio Code**<br> 
+> javascript,python,golang등으로 간단한 블록체인 구현
+- **Ubuntu-IntelliJ IDEA - Gradle**<br> 
+> 버츄얼박스에 우분투를 설치하고 IntelliJ IDEA로 java를 Hyperledger Fabric을 구현, Gradle로 빌드하여 사용
+- **Docker**<br> 
+Hyperledger Fabric 구현<br> 
+> 도커 컨테이너를 여러개 생성하여 네트워크를 구성<br>
+> docker-compose를 통해 연동및 구동 <br>
+- **MySQL Workbench**<br>
+> MySQL Workbench와 MFC을 연동하여 DB를 생성 및 데이터 조작<br>
 
 <br>
 
