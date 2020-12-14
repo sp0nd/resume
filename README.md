@@ -45,8 +45,8 @@ CreditBlock<br>
 
 - **C/C++**<br>
  입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용가능<br>
- binary search, bubble sort, Stack, Queue, Linkedlist, Tree등을 구현 함<br>
- MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 제작 함<br>
+ binary search, bubble sort, Stack, Queue, Linkedlist, Tree등을 구현<br>
+ MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 제작<br>
 - **Java**<br>
  Stack을 활용해서 eight queens problem의 해 구하기<br>
  Linkedlist를 직접 구현하며 mergelist 등의 메소드 또한 구현<br>
@@ -81,15 +81,16 @@ Hyperledger Fabric 구현<br>
 ### Blockchain - Tool : Ubuntu
 
 - **Bitcoin Blockchain**<br>
-비트코인의 구조를 이해할 수 있고 링크드리스트, 채굴, 작업증명등을 구현 경험
+비트코인의 구조를 이해할 수 있고 링크드리스트, 채굴, 작업증명등을 구현 경험<br>
 
 - **Ethereum Blockchain**<br>
-이더리움의 핵심 기능인 smart contract를 Solidity를 이용해 작성하고 간단한 네트워크를 구축
+이더리움의 핵심 기능인 smart contract를 Solidity를 이용해 작성하고 간단한 네트워크를 구축<br>
 
-- **Hyperledger Fabric Blockchain**<br>여러개의 명령어를 shellScript파일로 작성하여 명령어를 한번에 실행할 수 있게 만들수 있습니다. yaml으로 orderer,Organization,client등을 스펙을 조작할 수
- 있고,
-제네시스 블록 ,인증서등을 생성하고 채널 생성 및 Org등록을 할 수 있습니다. chaincode 또한 Go언어와
-Java로 응용할 수 있습니다.
+- **Hyperledger Fabric Blockchain**<br>
+ 여러개의 명령어를 shellScript파일로 작성하여 명령어를 한번에 실행할 수 있게 구현<br>
+ yaml으로 orderer,Organization,client등을 스펙을 조작가능<br>
+ 제네시스 블록 ,인증서등을 생성하고 채널 생성 및 Org등록을 할 수 있고, chaincode 또한 Go언어와
+ Java로 응용가능<br>
 
 
 ## 학력
