@@ -5,7 +5,7 @@
 - 생년월일: 1994년 03월 31일
 - 군필여부: 육군 병장 만기 전역
 - Email: lagmon@naver.com
-- Github: github.com/sp0nd
+- Github: https://github.com/sp0nd
 ```
 블록체인 기술에 관심이 있고 응용할 수 있는 분야 중 하나를 찾아서 접목시켜 보고 싶습니다.
 ```
@@ -28,8 +28,16 @@
 처해있을 때 성장 가능성이 있는 자영업자들에게 금융기관에서 자금을 유통함으로써 금융기관의 고객층 확보
 하고 기업 이미지를 개선할 수 있습니다.
 ```
-- 수상 날짜 : 2020년 11월
+- 수상 날짜 : 2020년 11월 
+- 공모전 PDF : https://github.com/sp0nd/resume/tree/main/project
 <br>
+
+#### Project
+CreditBlock<br>
+- 소개 : 2020 블록체인 아이디어 공모전 구현
+- 기간 : 2020.10 ~ 2020.12
+- 사용기술 : 블록체인(Hyperledger Fabric)
+- 사용언어 : goLang,java,yaml,shellScript(Bash)
 
 ## 사용기술
 
@@ -58,7 +66,7 @@
 
 - **Ethereum Blockchain**<br>이더리움의 핵심 기능인 smart contract를 Solidity를 이용해 작성하고 간단한 네트워크를 구축해봤습니다.
 
-- **Hyperledger Fabric Blockchain**<br>여러개의 명령어를 shall파일로 작성하여 명령어를 한번에 실행할 수 있게 만들수 있습니다. yaml으로 orderer,Organization,client등을 스펙을 조작할 수 있고,
+- **Hyperledger Fabric Blockchain**<br>여러개의 명령어를 shellScript파일로 작성하여 명령어를 한번에 실행할 수 있게 만들수 있습니다. yaml으로 orderer,Organization,client등을 스펙을 조작할 수 있고,
 제네시스 블록 ,인증서등을 생성하고 채널 생성 및 Org등록을 할 수 있습니다. chaincode 또한 Go언어와
 Java로 응용할 수 있습니다.
 
