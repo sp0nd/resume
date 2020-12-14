@@ -43,36 +43,48 @@ CreditBlock<br>
 
 ### Programming Skill
 
-- **C/C++**<br>입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용할 줄 알고  binary search, bubble sort, Stack, Queue, Linkedlist, Tree등을 구현할 수 있습니다. 그리고 MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 만들어 봤습니다.
-- **Java**<br>Stack을 활용해서 eight queens problem의 해 구하기, Linkedlist를 직접 구현하며 mergelist 등의 메소드 또한 구현해보았고, 배열을 이용한 bug game 코딩 등을 구현했습니다.
-- **Go**<br>Hyperledger Fabric의 smart contract를 담당하는 chaincode를 작성하고 이해할 수 있습니다.
-- **JavaScript**<br>간단한 블록체인을 코딩하고 네트워크를 구축해 구동해 봤습니다.
-- **SQL**<br> DB를 생성하거나 테이블을 생성해서 데이터를 조작할수 있고 간단한 DB설계를 해봤습니다.
-- **Python**<br>파이썬의 기본적인 문법을 응용할 수 있습니다. 
+- **C/C++**<br>
+ 입문언어로 절차지향적인 C언어, 객체지향적인 C++의 기본 문법을 적절히 사용가능<br>
+ binary search, bubble sort, Stack, Queue, Linkedlist, Tree등을 구현 함<br>
+ MFC와 mysql을 연동해서 사용할 수 있고 간단한 어플리케이션을 제작 함<br>
+- **Java**<br>
+ Stack을 활용해서 eight queens problem의 해 구하기<br>
+ Linkedlist를 직접 구현하며 mergelist 등의 메소드 또한 구현<br>
+ 배열을 이용한 bug game 등을 구현<br>
+- **Go**<br>
+Hyperledger Fabric의 smart contract를 담당하는 chaincode를 작성하고 이해할 수 있음<br>
+- **JavaScript**<br>
+간단한 블록체인을 코딩하고 네트워크를 구축해 구동 함<br>
+- **SQL**<br>
+DB를 생성하거나 테이블을 생성해서 데이터를 조작가능<br>
+간단한 DB설계를 가능<br>
+- **Python**<br>파이썬의 기본적인 문법을 응용할 수 있습니다. <br>
 
 ### Available Tool
 
 - **Visual Studio**<br>
-> C/C++을 코딩할때 주로 사용
-> 하였으며 MFC로 다양한 프로젝트를 개발해 보았습니다.
+ C/C++을 코딩할때 주로 사용<br>
+ 하였으며 MFC로 다양한 프로젝트를 개발<br>
 - **Visual Studio Code**<br> 
-> javascript,python,golang등으로 간단한 블록체인 구현
+ javascript,python,golang등으로 간단한 블록체인 구현<br>
 - **Ubuntu-IntelliJ IDEA - Gradle**<br> 
-> 버츄얼박스에 우분투를 설치하고 IntelliJ IDEA로 java를 Hyperledger Fabric을 구현, Gradle로 빌드하여 사용
+ 버츄얼박스에 우분투를 설치하고 IntelliJ IDEA로 java를 Hyperledger Fabric을 구현, Gradle로 빌드하여 사용<br>
 - **Docker**<br> 
 Hyperledger Fabric 구현<br> 
-> 도커 컨테이너를 여러개 생성하여 네트워크를 구성<br>
-> docker-compose를 통해 연동및 구동 <br>
+ 도커 컨테이너를 여러개 생성하여 네트워크를 구성<br>
+ docker-compose를 통해 연동및 구동 <br>
 - **MySQL Workbench**<br>
-> MySQL Workbench와 MFC을 연동하여 DB를 생성 및 데이터 조작<br>
+ MySQL Workbench와 MFC을 연동하여 DB를 생성 및 데이터 조작<br>
 
 <br>
 
 ### Blockchain - Tool : Ubuntu
 
-- **Bitcoin Blockchain**<br>비트코인의 구조를 이해할 수 있고 링크드리스트, 채굴, 작업증명등을 구현해봤습니다.
+- **Bitcoin Blockchain**<br>
+비트코인의 구조를 이해할 수 있고 링크드리스트, 채굴, 작업증명등을 구현 경험
 
-- **Ethereum Blockchain**<br>이더리움의 핵심 기능인 smart contract를 Solidity를 이용해 작성하고 간단한 네트워크를 구축해봤습니다.
+- **Ethereum Blockchain**<br>
+이더리움의 핵심 기능인 smart contract를 Solidity를 이용해 작성하고 간단한 네트워크를 구축
 
 - **Hyperledger Fabric Blockchain**<br>여러개의 명령어를 shellScript파일로 작성하여 명령어를 한번에 실행할 수 있게 만들수 있습니다. yaml으로 orderer,Organization,client등을 스펙을 조작할 수
  있고,
